@@ -1,1 +1,6 @@
 = Learning Go, 2nd Edition
+
+++++
+<br>
+<img align="left" role="left" src="https://learning.oreilly.com/covers/urn:orm:book:9781098139285/400w/" width="110" alt="Book Cover" />
+++++
