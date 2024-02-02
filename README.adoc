@@ -8,3 +8,7 @@
 4. link:ch04[Blocks, Shadows, And Control Structures]
 5. link:ch05[Functions]
 6. link:ch06[Pointers]
+7. link:ch07[Types, Methods, And Interfaces]
+8. link:ch08[Generics]
+9. link:ch09[Errors]
+10. link:ch10[Modules, Packages, And Imports]
