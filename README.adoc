@@ -7,9 +7,9 @@
 
 == Source Code
 
-link:ch01[Setting Up Your Go Environment]
-link:ch02[Predeclared Types And Declarations]
-link:ch03[Composite Types]
-link:ch04[Blocks, Shadows, And Control Structures]
-link:ch05[Functions]
-link:ch06[Pointers]
+1. link:ch01[Setting Up Your Go Environment]
+2. link:ch02[Predeclared Types And Declarations]
+3. link:ch03[Composite Types]
+4. link:ch04[Blocks, Shadows, And Control Structures]
+5. link:ch05[Functions]
+6. link:ch06[Pointers]
